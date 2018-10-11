@@ -1,0 +1,6 @@
+26-javamagazine_January_February_2016-dl.pdf filter=lfs diff=lfs merge=lfs -text
+27-javamagazine_March_April_20160-dl.pdf filter=lfs diff=lfs merge=lfs -text
+28-javamagazine_Bigdata_May_June_2016.pdf filter=lfs diff=lfs merge=lfs -text
+29-JavaMagazineEnterprise_Java_July_August_2016.pdf filter=lfs diff=lfs merge=lfs -text
+30-JavaMagazine_September_October_2016.pdf filter=lfs diff=lfs merge=lfs -text
+31-JavaMagazine_November_December_2016.pdf filter=lfs diff=lfs merge=lfs -text
